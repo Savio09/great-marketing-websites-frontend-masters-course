@@ -1,5 +1,5 @@
 .title {
-  font-variation-settings: 'wght' 200;
+  font-variation-settings: 'wght' calc(100 + var(--distance) * 800);
   letter-spacing: 0em;
 }
 
