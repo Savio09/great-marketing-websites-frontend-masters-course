@@ -1,6 +1,6 @@
 [![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/winning-websites)
 ## Award-Winning Marketing Site Course
-This is a companion repository for the [Award-Winning Marketing Site](https://frontendmasters.com/courses/winning-websites) course on Frontend Masters. This repo contains a collection of animation and interaction exercises and solutions.
+This is a companion repository for the [Award-Winning Marketing Site](https://frontendmasters.com/courses/winning-websites) course on Frontend Masters. This repo contains a collection of animation and interaction exercises and solutions. This exercise was completed by Fortune Declan
 
 ## Getting Started
 
